@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "name": "learn-react",
+      "upvotes": 0,
+      "comments": []
+    },
+    {
+      "name": "learn-node",
+      "upvote": 0,
+      "comments": []
+    }
+  ]
+}
